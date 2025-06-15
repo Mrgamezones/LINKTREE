@@ -145,3 +145,10 @@ a {
   opacity: 1;
   transform: scale(1.1);
 }
+
+@media (max-width: 768px) {
+  .footer {
+    bottom: 10px; /* Aproxime mais da borda */
+    right: 10px;
+  }
+}
