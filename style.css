@@ -148,8 +148,8 @@ a {
 
 @media (max-width: 768px) { /* Para telas de celular */
   .logo-footer img {
-    width: 25px; /* Tamanho bem reduzido */
-    min-width: 25px; /* Garante que não fique menor que isso */
+    width: 50px; /* Tamanho bem reduzido */
+    min-width: 50px; /* Garante que não fique menor que isso */
   }
   
   .footer {
