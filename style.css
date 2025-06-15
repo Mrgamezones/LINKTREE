@@ -146,14 +146,14 @@ a {
   transform: scale(1.1);
 }
 
-@media (max-width: 768px) { /* Para telas de celular */
+@media (max-width: 768px) { 
   .logo-footer img {
-    width: 50px; /* Tamanho bem reduzido */
-    min-width: 50px; /* Garante que não fique menor que isso */
+    width: 80px; 
+    min-width: 80px; 
   }
   
   .footer {
-    bottom: 15px; /* Aproxima mais da borda */
+    bottom: 15px; 
     right: 15px;
   }
 }
